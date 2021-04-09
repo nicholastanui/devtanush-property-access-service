@@ -12,7 +12,7 @@
     <artifactId>devtanush-property-access-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>devtanush-property-access-service</name>
-    <description>My property access service</description>
+    <description>Microservice that will communicate to spring cloud config server to access property files kept on GitHub repository.</description>
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>2020.0.2</spring-cloud.version>
